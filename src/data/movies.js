@@ -1,4 +1,9 @@
-[
+
+
+
+const movies = {
+
+    movies: [
     {
         "title": "The Godfather",
         "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
@@ -98,5 +103,9 @@
         "director": "Martin Scorsese",
         "year": 1990,
         "dateAdded": "Thu Mar 02 2023 12:38:19 GMT-0500 (Eastern Standard Time)"
-    }
+    },
 ]
+}
+
+
+module.exports = movies;
