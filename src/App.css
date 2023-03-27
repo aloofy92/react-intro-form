@@ -1,9 +1,4 @@
-.App {
-  text-align: center;
-  color: purple;
-  ;
 
-}
 
 .App-logo {
   height: 40vmin;
@@ -41,4 +36,10 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.App {
+ text-align: center;
+  color: rgb(151, 83, 151);
+
 }
